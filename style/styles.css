@@ -406,6 +406,12 @@ header button {
   opacity: 0.5;
 }
 
+/*------------proyecto_tuEspacio.html-----------*/
+.section_proy a {
+  color: #0096c7;
+  font-weight: 900;
+}
+
 /*---footer---*/
 footer {
   background-color: black;
