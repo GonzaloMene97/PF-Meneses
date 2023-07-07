@@ -1,4 +1,4 @@
-# Segunda pre-entrega del proyecto final
+# Proyecto final
 ## Index.html (Inicio)
 
 En el index se presenta la presentación de la empresa, con un mensaje identificando quién es la empresa.
@@ -16,5 +16,5 @@ Trata sobre los diferentes clientes con quienes trabajaron los miembros de la em
 
 Se podrá visualizar algunos de los trabajos realizados realizados (desde la fotografía hasta el diseño). Y mostrando algunas de ellas.
 
-### Añadición de los proyectos de Jardín Botánico, Jardín Japonés y Mascotas
-En esta parte se puede visualizar los proyectos realizados para el Jardín Botánico "Prof. Atilio Lumbardo", el Jardín Japonés "HEI SEI" y las mascotas de algunos usuarios que contrantaron el servicio de fotografía.
+### Añadición de los proyectos de Jardín Botánico, Jardín Japonés, Mascotas, Personas, Paisajes y TuEspacio.
+Estos son algunos de los proyectos principales que se usaron en la página a modo de ejemplo de la visualización de los trabajos de los fotógrafos.
